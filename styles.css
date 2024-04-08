@@ -22,6 +22,14 @@ h1 {
   color: #4ECCA3;
 }
 
+
+h2 {
+  margin: 30px;
+  font-family: cursive;
+  font-size: 2rem;
+  color: white;
+}
+
 p {
   font-size: 2rem;
   color: #4ECCA3;
